@@ -125,7 +125,7 @@ h6 {
 }
 
 a {
-    color: #4183C4;
+    color: #00e173;
     text-decoration: none;
 }
 
@@ -135,7 +135,7 @@ a:hover {
 
 h1 a, h2 a, h3 a,
 h4 a, h5 a, h6 a {
-    color: #4183C4;
+    color: #00e173;
 }
 
 
@@ -427,7 +427,7 @@ table.plain {
 }
 
 .post-meta a {
-    color: #999999;
+    /* color: #999999; */
     text-decoration: none;
 }
 
